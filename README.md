@@ -17,3 +17,5 @@ GRID / https://store.steampowered.com/app/703860/GRID/ / https://www.youtube.com
 Need for Speed: Shift / https://store.steampowered.com/app/24870/Need_for_Speed_Shift/?curator_clanid=36140392 / https://www.youtube.com/watch?v=VfXOAc9xSy8
 
 Need for Speed™ Rivals / https://store.steampowered.com/app/1262600/Need_for_Speed_Rivals/?curator_clanid=36140392 / https://www.youtube.com/watch?v=xsKHweFi7AU
+
+Każda z gier jest grą typu wyścigi.
